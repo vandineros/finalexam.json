@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "  Tubbataha Reef Tourist ",
+    "imageUrl": "http://static.asiawebdirect.com/m/phuket/portals/philippines-hotels-ws/homepage/attractions/tubbataha-reef/pagePropertiesImage/tubbataha-reef-4.jpg.jpg",
+    "priceCurrency": "₱2000",
+    "price": 120,
+    "lat": 8.851372,
+    "lng": 119.933291  
+  },
+  {
+    "id": 2,
+    "name": "Pugad Resort",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/2.jpg",
+    "priceCurrency": "₱",
+    "price": 200,
+    "lat": 16.2833,
+    "lng": 120.4833
+      }
+    ]
